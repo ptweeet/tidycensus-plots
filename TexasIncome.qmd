@@ -1,0 +1,6 @@
+---
+title: "TexasIncome"
+author: "Alec Rogers"
+format: html
+---
+
